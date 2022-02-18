@@ -7,7 +7,7 @@ It's inspired by stories like The Count of Monte Cristo, where a simple death is
 You'll establish a promising young soul who's life is ruined by a handful of grasping scoundrels, then you'll tell the decades-long story of the victim's overdue and inevitable vengeance. You'll tell this story from the perspective of the villains, with the protagonist - The Knife - moving in the shadows or behind disguises.
 You'll answer card prompts about your villain's life as you add notes and connections to a pinboard of sin and scandal.
  
-
+(alt text: an illustration of a pinboard, with many different-sized cards and pictures connected with red string)
 Yes, an actual pinboard!
  
 These prompts are split into four acts to help guide your story to a satisfying conclusion. As you progress through these acts you'll also tell the story of The Knife as they rise from depraved captivity to high society and begin to enact their revenge.
@@ -71,7 +71,7 @@ The Count of Monte Cristo (2002)
 The playset will also have useful things like lists of names and locations to help you answer cards as you play. And don't worry if you don't have much historical knowledge of the period—you can engage with it as much or as little as you like, and even choose to introduce magic and other weirdness into your setting if that's your preference. Some people just want to duel with swords in frilly shirts, I get it!
 Rafael will be doing the illustrations for this playset too. I'm really excited to see his work printed in riso. Oh yeah! The playset will be riso-printed as a beak zine — just like Bucket of Bolts and Artefact. I love this format because it's small, beautiful and practical, so I'm glad to have found a use for it again. Plus, I had to get some riso in this project somewhere!
  
-
+(alt text: an illustration of a booklet in hand, and then unfolded into a sheet showing portraits and lines of text)
 just unfold and get playing!
  
 You'll go through the booklet part of the zine to learn about and establish your setting and The Knife, then you'll unfold it into an A3 sheet to reveal your pre-made characters and play aids, ready to place next to your board.
@@ -80,7 +80,7 @@ But sure, I get it, The Count of Monte Cristo is a big book and a bad film, and 
 ARCADIA PRIME
 Arcadia Prime is a luxury space station orbiting the terminally-polluted Earth. On it, you'll find a coterie of the ultra-rich and forever young living beautiful, easy lives amongst astonishing technology. Of course, to make the kind of money you need for a ticket to Arcadia, you might need to leave a few loose ends behind you on Earth... If you like hard sci-fi and stories about atrocious mega-corporations, this is the setting for you.
  
-
+(alt text: a small illustration of a spaceship, repeated in a grid pattern and modified in a number of different ways. There are repairs, modifications and overgrowth shown on the ships)
 One of my favourite of Torben's illustrations, the header artwork for Bucket of Bolts.
  
 This playset will feature illustrations from Torben Bökemeyer, long-time favourite here at Mousehole Press for his stellar (😉) work on Orbital and Bucket of Bolts.
@@ -88,12 +88,12 @@ This playset will feature illustrations from Torben Bökemeyer, long-time favour
 COURT OF ARANDIL
 The Court of Arandil is the premier dominion of the high elf elite. Every notable elf aspires to make their way to the moon-touched glades of Arandil, but what they find is far from the lofty place of democracy and learning they are taught about as children. No, this is a cutthroat world of deals, scandal and plots where courtiers vie for the favour of their capricious Queen by any means necessary. Elves can live forever, sure, but they're as vulnerable to a sharp blade in the back as the rest of us... If you like Elrond, but also think he might be kind of a dick, this is the setting for you. 
 
-
+(alt text: a large fish skeleton, floating in the air, lit by the light of a handful of stars held by a young person in glasses.)
 One of Hortense's recent illustrations that caught my eye
  
 This playset will feature illustrations from Hortense Mariano, who I'm really excited to work with. Their expressive character art is going to be great!
  
-
+(alt text: a gif of someone folding the Artefact beak zine from an A3 sheet into a booklet.)
 there's going to be lots more zines for Dizzy to fold if this project is successful!
  
 Both of these playsets will have the same structure (setting, characters, play aids, etc) as the Count of Saint-Lazare setting, and be printed as beak zines.
