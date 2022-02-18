@@ -1,6 +1,6 @@
 The Slow Knife is a game of wretched scoundrels and patient revenge for 2-4 players.
 
-
+(alt text: The Slow Knife cover art, in black, gold and red. Three silhouetted figures carouse around a table while above, a pair of looming hands hold menacing strings tied to the trio below.)
 The Slow Knife, cover art
  
 It's inspired by stories like The Count of Monte Cristo, where a simple death is too good for all those years the villains took from their victim. This isn't a John Wick-style action flick, no—this is curt whispers over fine wine, jewelled masks of jade and bone, half-buried scandals and half-heard truths, and yes - sometimes - a quiet blade in the dark.
@@ -20,7 +20,7 @@ THE GAME
  
 At the core of The Slow Knife is a 52-card deck of prompts that asks probing, establishing questions about your villainous characters and their dishonourable lives. You'll take turns answering from this deck, building out the story of your character as you pass through the years. After resolving each card, you'll consider the board in front of you and add cards and connections to reflect what you've added to the story.
  
-
+(alt text: Three tarot-sized playing cards are mocked up here, spread on a pink surface. Only one card is fully visible, and reads: “The Knife’s revenge is complete. Each answer: How do they unmask themselves to you? What, if anything, are you left with?”.)
 Card mockups from the playtest
  
 The board is the other major component of the game. As you progress through the game your host of characters and events will swell—the board is how you record that information so you can maintain and complete story beats. It's also a really fun artefact of play, something you can imagine hanging on the wall of your single-minded protagonist.
@@ -33,10 +33,10 @@ THE DECK
  
 The Slow Knife is inspired by games like For the Queen that are rules-lite enough to start playing immediately. Since you always proceed through setup in the same order, I'm providing a simple booklet to teach you the game step-by-step as you play. This, along with a guided setup process that takes you through the creation of your world and characters, means that you don't have to do any kind of prep going into a game—just open the box and get going.
 Here's what you'll find (subject to change!):
- 52 prompt cards, split into 4 acts.
- 4 act cards, to set up and explain the 4 acts.
- 4 reference cards, because who doesn't love a reminder.
- 32-page mini booklet to teach you the rules & set up your game.
+- 52 prompt cards, split into 4 acts.
+- 4 act cards, to set up and explain the 4 acts.
+- 4 reference cards, because who doesn't love a reminder.
+- 32-page mini booklet to teach you the rules & set up your game.
 The cards will be printed in a gloriously large tarot-sized format (2.75" x 4.75") on 330gsm black-core cardstock. Heavy stuff! The use of 'cores' is a standard card production technique where a thicker sheet of paper is sandwiched between the printed sheets, which makes them easier to shuffle, opaque and (most importantly) more durable for repeated plays. Black-core is a couple of steps up from the standard stock — designed for 'premium casino quality' (!).
 
 > Environmental Impact
@@ -48,7 +48,7 @@ So, instead, I've chosen to go with Ludocards in Italy as my printer of choice f
 
 So that's the cards. But Jack! you cry, You can't just mail me ninety loose cards, you maniac!
  
-
+(alt text: A mockup of a small red box, holdable in one hand, with the Slow Knife title and cover artwork on the front. Three silhouetted figures carouse around a table while above, a pair of looming hands hold menacing strings tied to the trio below.)
 The Slow Knife, card box mockup
  
 Oh yeah, there's also a box! A nice two-piece container to keep all your cards safe. Again, also produced with recycled paper, renewable energy and non-toxic inks. 
@@ -122,6 +122,7 @@ If you'd like to add tracking, you can purchase it as an add-on.
  
 -----
 MOUSEHOLE PRESS
+(alt text: This is the Mousehole Press logo. Next to a handwritten “Mousehole Press”, there is a cute little mouse in an orange sweater and blue jacket reading a book and leaning up against a twenty-sided die.)
  
 Hi, I’m Jack, a tabletop game designer from Southampton, England. I make small, story-driven games, games that you can play in an evening with some friends (or even on your own!).
 Over the past couple of years I've taken some of those games to Kickstarter. I launched the Artefact zine for Zinequest 2020, and it did gangbusters, much to my surprise! This gave me the confidence to fund the Orbital zine in August 2020—cementing my love for riso printing and fancy paper. Most recently, I funded Bucket of Bolts for Zinequest 2021, where it once again topped the charts! With Zinequest moving to August this year, I thought I'd take the opportunity to fund a card-based game instead, so here we are.
