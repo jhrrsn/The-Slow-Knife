@@ -1,9 +1,9 @@
-The Slow Knife is a game of wretched scoundrels and patient revenge for 2-4 players.
+A card-based story game of wretched scoundrels and patient revenge for 2-4 players.
 
 (alt text: The Slow Knife cover art, in black, gold and red. Three silhouetted figures carouse around a table while above, a pair of looming hands hold menacing strings tied to the trio below.)
 The Slow Knife, cover art
  
-It's inspired by stories like The Count of Monte Cristo, where a simple death is too good for all those years the villains took from their victim. This isn't a John Wick-style action flick, no—this is curt whispers over fine wine, jewelled masks of jade and bone, half-buried scandals and half-heard truths, and yes - sometimes - a quiet blade in the dark.
+The Slow Knife is inspired by stories like The Count of Monte Cristo, where a simple death is too good for all those years the villains took from their victim. This isn't a John Wick-style action flick, no—this is curt whispers over fine wine, jewelled masks of jade and bone, half-buried scandals and half-heard truths, and yes - sometimes - a quiet blade in the dark.
 You'll establish a promising young soul who's life is ruined by a handful of grasping scoundrels, then you'll tell the decades-long story of the victim's overdue and inevitable vengeance. You'll tell this story from the perspective of the villains, with the protagonist - The Knife - moving in the shadows or behind disguises.
 You'll answer card prompts about your villain's life as you add notes and connections to a pinboard of sin and scandal.
  
@@ -18,7 +18,9 @@ Then, as the sun rises on a land free of those avaricious scoundrels, you'll con
 -----
 THE GAME
  
-At the core of The Slow Knife is a 52-card deck of prompts that asks probing, establishing questions about your villainous characters and their dishonourable lives. You'll take turns answering from this deck, building out the story of your character as you pass through the years. After resolving each card, you'll consider the board in front of you and add cards and connections to reflect what you've added to the story.
+The Slow Knife is a roleplaying game - in that you're playing the role of one of the villains - but it doesn't demand much from you in terms of improvised oration or dramatic narration. Even if you've never played an RPG before, this game is designed to make your first experience with the hobby a great (and comfortable!) one. All you need is a love of good stories and a willingness to ask curious questions. If you're a seasoned RPG player, maybe with a long-running D&D campaign, this would be a great game to play if someone can't turn up one week or you're looking for a break between campaigns—simple, self-contained and zero prep!
+
+At the core of the game is a 52-card deck of prompts that asks probing, establishing questions about your villainous characters and their dishonourable lives. You'll take turns answering from this deck, building out the story of your character as you pass through the years. After resolving each card, you'll consider the board in front of you and add cards and connections to reflect what you've added to the story.
  
 (alt text: Three tarot-sized playing cards are mocked up here, spread on a pink surface. Only one card is fully visible, and reads: “The Knife’s revenge is complete. Each answer: How do they unmask themselves to you? What, if anything, are you left with?”.)
 Card mockups from the playtest
@@ -59,7 +61,7 @@ His bold use of colour and form is really striking, and I'm really glad he said 
 -----
 THE PLAYSETS
 
-So, the box has everything you need to play a game of The Slow Knife. But sometimes you don't want to spend an hour of your evening (or more, if your group is anything like mine!) building a world & characters from scratch. So, I'm also writing three playsets that will get you ready to tell your story in minutes, not hours, allowing you to skip the entire prelude set of cards.
+So, the box has everything you need to play a game of The Slow Knife. But sometimes you don't want to spend an hour of your evening (or more, if your group is anything like mine!) building a world & characters from scratch. So, I'm also writing three playsets that will provide an original, pre-written setting and define all the major characters of your story—the Knife, your villains and the setting itself. These playsets are designed to be a quicker experience than the 'from scratch' approach in the box, and they will fill your story with beats and possibilities that make starting play effortless. Let's talk about them!
 
 THE COUNT OF SAINT-LAZARE
 The first of these is, of course, set in Revolutionary France, 18XX. It's called The Count of Saint-Lazare, the inspiration for which should hopefully be pretty clear at this point! Fans of Alexandre Dumas or Victor Hugo, this one's for you. In the playset you'll get an introduction to the setting, a few quick choices to make as a table about the time period and The Knife, and then you'll choose from four pre-written characters. You'll make a few more quick choices to personalise them, and then get started with your story. 
