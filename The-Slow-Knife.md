@@ -18,7 +18,7 @@ Then, as the sun rises on a land free of those avaricious scoundrels, you'll con
 -----
 THE GAME
  
-The Slow Knife is a roleplaying game - in that you're playing the role of one of the villains - but it doesn't demand much from you in terms of improvised oration or dramatic narration. Even if you've never played an RPG before, this game is designed to make your first experience with the hobby a great (and comfortable!) one. All you need is a love of good stories and a willingness to ask curious questions. If you're a seasoned RPG player, maybe with a long-running D&D campaign, this would be a great game to play if someone can't turn up one week or you're looking for a break between campaigns—simple, self-contained and zero prep!
+The Slow Knife is a roleplaying game - in that you're playing the role of one of the villains - but it doesn't demand much from you in terms of improvised oration or dramatic narration. Even if you've never played an RPG before, this game is designed to make your first experience with the hobby a great (and comfortable!) one. All you need is a love of good stories and a willingness to ask curious questions. If you're a seasoned RPG player, maybe with a long-running D&D campaign, this would be a great game to play if someone can't turn up one week or you're looking for a break between campaigns—simple, self-contained and zero prep. And of course if you're already on board with playing a bunch of unique, often-strange story games, well then you know what's good already!
 
 At the core of the game is a 52-card deck of prompts that asks probing, establishing questions about your villainous characters and their dishonourable lives. You'll take turns answering from this deck, building out the story of your character as you pass through the years. After resolving each card, you'll consider the board in front of you and add cards and connections to reflect what you've added to the story.
  
@@ -48,7 +48,7 @@ I started my search for a card printer here in the UK, but the pricing wasn't ev
 But, as well as the practical concern of massively fluctuating shipping prices, I started to feel increasingly uncomfortable about the 'true cost' of printing my game. I couldn't find any options for printing with recycled materials, or without toxic printing chemicals, or renewable energy. I also couldn't be sure, in part because of my inexperience dealing with overseas labour, how to properly assure working conditions for the people making my games.
 So, instead, I've chosen to go with Ludocards in Italy as my printer of choice for this project. Their factory runs on 100% solar energy, they use 100% recyclable CE certified papers, and food-grade (non-toxic) inks for printing. They also seem like lovely folks, from the interactions I've had with them—a family-run business with solid values. Of course, this stuff also makes them more expensive, so here we are. I hope that works for you.
 
-So that's the cards. But Jack! you cry, You can't just mail me ninety loose cards, you maniac!
+So that's the cards. But Jack! you cry, You can't just mail me sixty loose cards, you maniac!
  
 (alt text: A mockup of a small red box, holdable in one hand, with the Slow Knife title and cover artwork on the front. Three silhouetted figures carouse around a table while above, a pair of looming hands hold menacing strings tied to the trio below.)
 The Slow Knife, card box mockup
@@ -70,20 +70,14 @@ The first of these is, of course, set in Revolutionary France, 18XX. It's called
 (alt text: two figures stand across from each other in a field of wheat, duelling with swords)
 The Count of Monte Cristo (2002)
  
-The playset will also have useful things like lists of names and locations to help you answer cards as you play. And don't worry if you don't have much historical knowledge of the period—you can engage with it as much or as little as you like, and even choose to introduce magic and other weirdness into your setting if that's your preference. Some people just want to duel with swords in frilly shirts, I get it!
-Rafael will be doing the illustrations for this playset too. I'm really excited to see his work printed in riso. Oh yeah! The playset will be riso-printed as a beak zine — just like Bucket of Bolts and Artefact. I love this format because it's small, beautiful and practical, so I'm glad to have found a use for it again. Plus, I had to get some riso in this project somewhere!
- 
-(alt text: an illustration of a booklet in hand, and then unfolded into a sheet showing portraits and lines of text)
-just unfold and get playing!
- 
-You'll go through the booklet part of the zine to learn about and establish your setting and The Knife, then you'll unfold it into an A3 sheet to reveal your pre-made characters and play aids, ready to place next to your board.
+The playset will also have useful things like lists of names and locations to help you answer cards as you play. And don't worry if you don't have much historical knowledge of the period—you can engage with it as much or as little as you like, and even choose to introduce magic and other weirdness into your setting if that sounds fun.
 But sure, I get it, The Count of Monte Cristo is a big book and a bad film, and period drama might just not be your thing. Don't sweat it. You see, the world of fiction (and the world) is not short of awful rich people. Pretty much every setting you can imagine has enough money-grubbing leeches to tell a thousand stories in The Slow Knife. So here's what I've got planned for the other two playsets:
 
 ARCADIA PRIME
 Arcadia Prime is a luxury space station orbiting the terminally-polluted Earth. On it, you'll find a coterie of the ultra-rich and forever young living beautiful, easy lives amongst astonishing technology. Of course, to make the kind of money you need for a ticket to Arcadia, you might need to leave a few loose ends behind you on Earth... If you like hard sci-fi and stories about atrocious mega-corporations, this is the setting for you.
  
-(alt text: a small illustration of a spaceship, repeated in a grid pattern and modified in a number of different ways. There are repairs, modifications and overgrowth shown on the ships)
-One of my favourite of Torben's illustrations, the header artwork for Bucket of Bolts.
+(alt text: A sketch, showing someone golfing on an orbital station. A robot butler waits on them. A ruined, trash-covered Earth is visible in the distance.)
+An early sketch from Torben—one of the many awesome options to consider for the Arcadia cover!
  
 This playset will feature illustrations from Torben Bökemeyer, long-time favourite here at Mousehole Press for his stellar (😉) work on Orbital and Bucket of Bolts.
 
@@ -95,18 +89,25 @@ One of Hortense's recent illustrations that caught my eye
  
 This playset will feature illustrations from Hortense Mariano, who I'm really excited to work with. Their expressive character art is going to be great!
  
-(alt text: a gif of someone folding the Artefact beak zine from an A3 sheet into a booklet.)
-there's going to be lots more zines for Dizzy to fold if this project is successful!
+Playset Printing
+
+(alt text: A mockup of an A6 wiro-bound booklet, with a purple cover)
+Arcadia Prime playset, cover mockup
  
-Both of these playsets will have the same structure (setting, characters, play aids, etc) as the Count of Saint-Lazare setting, and be printed as beak zines.
-Each of the three zines will have its own complementary pairing of coloured paper and riso inks, just like my previous zines. They're going to look great together, and if you pledge for all three I'll stick them all in a fancy foiled envelope for you. Nice one! 
+Each playset will be printed as an A6 wiro-bound booklet—a format inspired by Tyler's awesome Possible Worlds project. I think it's a really practical format for play, as the booklet lays nice and flat and it's easy to flick through to find what you need.
+ 
+(alt text: A mockup of an A6 wiro-bound booklet, opened to show interior pages. The words 'Making it Yours' are visible, while everything else is lorem ipsum.)
+A mockup of the booklet's interior.
+ 
+The books will be printed on recycled paper, and each will be themed around a single colour—though you'll find full-colour work from the illustrators throughout!
+If you like the sound of these, backing the 'Playset Edition' will get you all three playsets for the price of two!
  
 
 -----
 DELIVERY
  
 Timelines
-I've got a draft of the game ready, and I'll be running weekly playtests with willing folks until I'm happy to launch. In the meantime, I'll be liaising with my partner for card printing to get things ready for the final files, so we can hopefully have a fairly straightforward ride towards delivery. I'm hopeful that we'll have everything ready considerably ahead of schedule, but I'm also aware that these projects can easily slip (especially if you're not willing to be that guy with your suppliers). I've also purposely added an arbitrary month to my estimates to avoid shipping chaos in December & dashing hopes of Christmas presents, but fingers crossed we'll be done in 2022.
+The game is written, and I've been running weekly playtests with willing folks (if you'd like to get involved, drop me a message!). In the meantime, I'll be liaising with my partner for card printing to get things ready for the final files, so we can hopefully have a fairly straightforward ride towards delivery.
 
 Accessibility
 As with previous projects, the digital files will be made available in accessible formats. This will almost certainly involve screen reader-compatible PDFs and plain text versions, but we'll also be investigating options for presenting the prompt cards (which is new for this project).
@@ -149,15 +150,14 @@ LONG-LASTING DESIGN
 By choosing durable, premium cardstock my hope is that the deck should survive a lifetime of play sessions. Nothing in the box is consumed or marked as you play, so you should have no problems selling or passing on the game to someone else when you feel you're finished with it.
 
 REUSABILITY & RECYCLABILITY
-The deck, booklet, box and zines will be printed on uncoated paper, so you should have no problems recycling them. You could even compost them, if you like.
+The deck, booklet, box and playsets will be printed on uncoated recycled paper, so you should have no problems recycling them. You could even compost them, if you like.
 
 SUSTAINABLE MATERIALS
-The deck, booklet and box are printed with 100% recyclable CE certified papers with premium quality from the best European paper mill.
-The zines will be printed with non-toxic, soy-based Risograph inks on a mix of recycled and FSC-certified papers.
+The deck, booklet and box will be printed with 100% recyclable CE certified papers with premium quality from the best European paper mill.
+The playsets will also be printed on recycled paper.
 
 ENVIRONMENTALLY-FRIENDLY FACTORIES
-The deck, booklet and box are being printed at a factory that runs 100% on renewable solar energy, and uses non-toxic inks
-The zines will be printed by a relatively local printer (UK-based) that specialises in Risograph printing, which is one of the most energy-efficient ways to print. Riso inks are also soy-based and non-toxic.
+The deck, booklet and box are being printed at a factory that runs 100% on renewable solar energy, and uses non-toxic inks.
 
 SUSTAINABLE FULFILLMENT & DISTRIBUTION
 My fulfilment partner uses forestry-commissioned packaging, bespoke eco-friendly packaging (plastic free) and recycled plastic for packing goods. They are also part-powered by a huge solar installation on the roof of the warehouse.
