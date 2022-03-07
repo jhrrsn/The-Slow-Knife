@@ -132,7 +132,7 @@ Over the past couple of years I've taken some of those games to Kickstarter. I l
 And hey, people seem to actually like playing my fancy zines too! As well as loads of lovely comments from players on itch.io, I've had the absolute joy of seeing my work featured by my faves Shut Up & Sit Down and Dicebreaker.
 But y'know, just generally I really like making nice things?!? That's the main motivation here. And it's only possible thanks to you and your support—so, thanks!
 Oh! And it's not just me running Mousehole Press. It's a family gig these days. Rachel, my wife, is my co-pilot for all print and design decisions, and she also does a lot of the branding work. She did all the cool titles on this page too!
-We'll also be working with all our faves from previous projects for delivery, too! That's Dizzy, Yubi, Chris, etc. The whole gang. Let's go!
+Oh, and if you want my 3 or 1-year old to personalise your copy of the game, just let me know (winking face emoji).
 
 -----
 RISKS & CHALLENGES
