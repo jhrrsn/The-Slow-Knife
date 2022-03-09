@@ -4,7 +4,7 @@ A card-based story game of wretched scoundrels and patient revenge for 2-4 playe
 The Slow Knife, cover art
  
 The Slow Knife is inspired by stories like The Count of Monte Cristo, where a simple death is too good for all those years the villains took from their victim. This isn't a John Wick-style action flick, no—this is curt whispers over fine wine, jewelled masks of jade and bone, half-buried scandals and half-heard truths, and yes - sometimes - a quiet blade in the dark.
-You'll establish a promising young soul who's life is ruined by a handful of grasping scoundrels, then you'll tell the decades-long story of the victim's overdue and inevitable vengeance. You'll tell this story from the perspective of the villains, with the protagonist - The Knife - moving in the shadows or behind disguises.
+You'll establish a promising young soul whose life is ruined by a handful of grasping scoundrels, then you'll tell the decades-long story of the victim's overdue and inevitable vengeance. You'll tell this story from the perspective of the villains, with the protagonist - The Knife - moving in the shadows or behind disguises.
 You'll answer card prompts about your villain's life as you add notes and connections to a pinboard of sin and scandal.
  
 (alt text: an illustration of a pinboard, with many different-sized cards and pictures connected with red string)
